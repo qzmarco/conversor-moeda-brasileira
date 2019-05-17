@@ -27,7 +27,8 @@ main()
       printf("\nOpcao 4: Cruzado (de 03/1986 a 01/1989) para Real (01/1994 - )\n");
       printf("\nOpcao 5: Cruzado Novo (de 02/1989 ate 07/1993) para Real (01/1994 - )\n");
       printf("\nOpcao 6: Cruzeiro Real (de 08/1993 ate 06/1994) para Real (01/1994 - )\n");
-      printf("\nOpcao 0: Sair\n\n");
+      printf("\nOpcao 0: Sair\n");
+      printf("\n\nDigite a opcao desejada: ");
       scanf("%d", &x);
       system("cls");
                switch(x){
