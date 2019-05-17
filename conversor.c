@@ -22,11 +22,11 @@ main()
       printf("\n\t\t\t\t\t\tDesenvolvido por MATSQ.\n");
       printf("\n\t\t\t\t\t\tTodos os direitos reservados.\n");
       printf("\nOpcao 1: Mil Reis (ate Outubro de 1942) para Real (01/1994 - )\n");
-      printf("\nOpcao 2: Cruzeiro (de 01/10/1942 até 31/01/1967) para Real (01/1994 - )\n");
-      printf("\nOpcao 3: Cruzeiro Novo (de 01/02/1967 até 02/1986) para Real (01/1994 - )\n");
+      printf("\nOpcao 2: Cruzeiro (de 01/10/1942 ate 31/01/1967) para Real (01/1994 - )\n");
+      printf("\nOpcao 3: Cruzeiro Novo (de 01/02/1967 ate 02/1986) para Real (01/1994 - )\n");
       printf("\nOpcao 4: Cruzado (de 03/1986 a 01/1989) para Real (01/1994 - )\n");
-      printf("\nOpcao 5: Cruzado Novo (de 02/1989 a 07/1993) para Real (01/1994 - )\n");
-      printf("\nOpcao 6: Cruzeiro Real (de 08/1993 a 06/1994) para Real (01/1994 - )\n");
+      printf("\nOpcao 5: Cruzado Novo (de 02/1989 ate 07/1993) para Real (01/1994 - )\n");
+      printf("\nOpcao 6: Cruzeiro Real (de 08/1993 ate 06/1994) para Real (01/1994 - )\n");
       printf("\nOpcao 0: Sair\n\n");
       scanf("%d", &x);
       system("cls");
